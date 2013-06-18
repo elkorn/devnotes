@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>device APIs</title>
+</head>
+<body>
+    <video autoplay controls ></video>
+<script type="text/javascript">
+    navigator.getUserMedia({audio: true, video: true}, function(stream){
+    var video = document.querySelector("video");
+    video.src = window.URL.createObjectURL(stream);
+    },
+    function(err){
+    console.error(err);
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+Source maps-  bidirectional mapping between a source and a generated file.
+@sourceMappingURL=http://xxx/
+
+Lexer:      characters -> tokens
+Parser:     tokens -> AST
+Backend:    AST -> optimizations -> object code
+
+SourceNodes keep track of lines, columns and similar data.
+
+Github:
+/fitzgen/rpn-js
+/mozilla/source-map
+

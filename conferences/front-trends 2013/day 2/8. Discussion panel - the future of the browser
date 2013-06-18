@@ -1,0 +1,26 @@
+The tools are not yet sufficient for web development.
+Developers use a lot of different small tools to achieve that results.
+Microframeworks allow effectivenes through appropriate granularity.
+To ensure progress, we should use simple fallbacks. Tell the users- "your data will be accessible, but bitch plzzz.",
+The Web Platorm cannot be thought of as a monolithic entity. 
+"Worse is better." You could not throw elements of Web Standards due to backwards compatibility. 
+Unsuccesful platforms can change at will. Backwards compatibility is a feature of success.
+
+Threats from within - declarative value in imperative implementation causes loss of semantics - be reasonable about content distribution.
+
+Discern the difference between someone leading and someone following - said about IE 4-6.
+Experiments CAN go wrong. 
+Browsers vs browser foundations - browsers are really means of connecting components, so saying that a company is going to own the web is not the case - it still uses SOME non-proprietary foundations. The risk that a company leaves its foundations is very unlikely.
+
+Will JS be the primary language or a compilation target for different langs?
+Both. We already have dart, coffeescript etc. But we should not care about the low level so much anymore like what kernel does someone use? It's a Linux.
+
+Google Glass and similar devices - how will they change web development?
+On the Web Platforms, we make suggestions, not demands. The fact that it is so adaptable, makes it so successful.
+
+The Web will adapt because 'everyone' is involved in keeping it alive. The threats to the Web would be attacking its supporting pillars - like the US Govt tries to do.
+
+
+If web apps are not easy to write, it is the platform's fault.
+
+The topic of DRM. If browser vendors do not adhere to these standards, native apps will pop up providing the functionality of the open web, while it will stay a mean for piracy.

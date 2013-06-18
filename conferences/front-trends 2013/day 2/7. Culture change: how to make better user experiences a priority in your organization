@@ -1,0 +1,37 @@
+Revolutionized gov.uk sites, simplicity and whitespace is a key.
+
+2000 websites replaced with 1, provding users with a predictable experience, making the govt more transparent and saving backend money. Robust, coherent experience.
+
+Talking about User Experience is fuzzy. Talk about fonts, images, colors, whitespace etc. Stick to concretes! UX is everyone's responsibility - everyone within the team is a contributor to the end effect.
+
+Better for users or GTFO.
+
+1. Start with user needs.
+2. Do less.
+    - does not mean "work less", but "focus".
+    - if something does not get stuff done, GTFO with it.
+    - less is more, due to providing clarity.
+3. Design with data.
+4. Do the hard work to make it simple.
+    - make the amount of user thinking and work a minimum
+    - simplicity should be an element of every part of the end result
+5. Iterate A LOT on features.
+    - MVP (minimum vialbe product) -> alpha -> beta -> live
+6. Build for inclusions.
+    - user research > academic ideas
+    - http://uxdesign.smashingmagazine.com/2012/01/12/inclusive-design/
+7. 
+    - 
+    - design in browser
+    - jekyll + heroku = easy, sharable prototypes
+
+8. Build digital services, not websites.
+    - websites are a part of thing that people are doing - not THE destination
+    - 
+9. Be consistent, not uniform.
+10. Make things open, it makes them better.
+    - be a team player, acknowledge other people.
+
+www.gov.uk/service-manual
+www.gov.uk/designprinciples
+https://github.com/datagovuk

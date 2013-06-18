@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title>CSS attr()</title>
+    <style type="text/css">
+        div {
+            border: 1px solid black;
+            width: 300px;
+            height: 10px;
+        }
+
+        div:after {
+            content: attr(data-test) ' ';
+        }
+
+    </style>
+</head>
+<body>
+<input type="text" list="options">
+<div>
+    
+</div>
+<datalist id="options">
+    <option value="option1"></option>
+    <option value="ption2"></option>
+    <option value="tion3"></option>
+    <option value="ion4"></option>
+    <option value="on5"></option>
+</datalist>
+<script>
+var input = document.querySelector("input"),
+    div = document.querySelector("div");
+
+div.dataset.test = input.value;
+input.addEventListener('keyup', function(data){
+    div.dataset.test = this.value;
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+Transferable objects - used for web worker communication.
+asm.js is useful for computational bottlenecks, and backwards compatible.
+
+Canvas is expensive to redraw with each update. It is also hard to implement interactivity - there is no out-of-the-box way.
+
+WebGL is very performant while drawing lots of 2D sprites. The gains vs Canvas-2D are questionable in some cases.
+
+Canvas performance
+ - the best thing to increase performance is partial redrawing - not exaclty like double buffering, e.g. redrawing adjacent states of one that has been interacted with.
+ - minimize stroke/fill - try to set the style only once to reduce performance hiccups
+ - generate/manipulate raw pixel data in a worker
+ 
+
+https://speakerdeck.com/mourner/high-performance-data-visualizations

@@ -1,0 +1,15 @@
+w3c multicol
+column-width
+column-gap
+column-rule (lies on top of the gap - precautions like with the box model)
+column-span
+
+Flexbox
+order: n; - allows ordering flex items interdependently of source order
+
+CSS grid layout
+display: grid
+grid-definition-columns: <width> <width> <width> ...
+grid-definition-...
+
+CSS Regions

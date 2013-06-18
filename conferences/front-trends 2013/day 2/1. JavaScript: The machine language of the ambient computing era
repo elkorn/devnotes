@@ -1,0 +1,19 @@
+"Worse is better" - often, the 'worse' language/technology is being adapted for widespread use due to its ubiquity, width of reach, low risk and smaller knowledge and skillset requirements.
+
+arewemobileyet.com - infographic on Web Platform functionalities available through the Firefox OS device.
+
+Parallel JS - data paralklelism for JS
+- goal: exploit multicores, vector instructions, GPUs,
+- design based on Intel's Rivertrail
+- on standarization track
+- experimental implementation in Firefdx Nightly
+
+asm.js - approximatino of a von Neumann computer in JS
+ - asm.js might be optimized by some JS engines
+
+C++ -> LLVM - optimization -> LLVM - Emscripten -> asm.js code -> asm.js aware JS engine.
+
+ES6 embraces FP and OOP features of JS
+ - arrow fns, comprehensions, generators, tail calls,
+ - (OOP :( too late)
+
