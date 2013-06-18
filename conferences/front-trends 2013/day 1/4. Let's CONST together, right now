@@ -1,6 +1,0 @@
-**let** gives you block scope - allows defining vars within block scope 
-chrome://flags: enable experimental javascript
-
-defs.js - static scope analysis + transpilation of block scoped const and let vars to ES3
-
-const - is like a let, but the variable cannot be modified. Shallow immutability only.

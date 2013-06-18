@@ -1,9 +1,0 @@
-The browser event model is broken.
-Check your assumptions at the door.
-Tools: qunit, mocha, jasmine...
-
-W3C's testharness.js
-github/bestiejs/platform.js
-blog.tobie.me
-
-It does not make sense to wait for the W3C to get their testing sorted out, do it now. Write the tests.
